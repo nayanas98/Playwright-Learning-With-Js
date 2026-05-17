@@ -1,0 +1,13 @@
+
+    {
+        "url1":"https://practicetestautomation.com/practice-test-login/",
+        "url2":"https://qaplayground.com/",
+        "inputField":"practice-card-input-fields",
+        "inputMovieField":"Enter hollywood movie name",
+        "alertButton":"practice-card-alerts-dialogs",
+        "simpleAlert":"btn-simple-alert",
+        "fileUploadButton":"practice-card-file-upload",
+        "fileUpload":"file-upload-input",
+        "radioButton":"practice-card-radio-checkbox",
+        "yesRadioButton":"radio-yes-1"
+    }
